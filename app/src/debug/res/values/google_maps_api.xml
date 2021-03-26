@@ -1,0 +1,12 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+    Package name:
+    com.example.testvertagelab
+
+    SHA-1 certificate fingerprint:
+    E4:F6:13:06:34:81:91:E5:02:FE:54:6E:54:C8:52:F5:39:86:7B:CC
+
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBUVDpqZ5ZdXaUSWwj6IN0uAsd1SfN-P3Y</string>
+</resources>
